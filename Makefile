@@ -1,2 +1,2 @@
-make say-hello
-Hello, Word!
+make say-hello:
+	Hello, Word!

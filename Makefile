@@ -1,2 +1,2 @@
 make say-hello:
-	Hello, Word!
+	echo "Hello, Word!"
